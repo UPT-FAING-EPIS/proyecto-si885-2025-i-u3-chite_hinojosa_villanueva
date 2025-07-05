@@ -82,3 +82,8 @@ Puedes ver la explicación completa del proyecto en el siguiente video:
 [![Ver en YouTube](https://img.youtube.com/vi/jgdnzV4mYxc/0.jpg)](https://www.youtube.com/watch?v=jgdnzV4mYxc)
 
 🔗 [https://www.youtube.com/watch?v=jgdnzV4mYxc](https://www.youtube.com/watch?v=jgdnzV4mYxc)
+
+## 📊 Dashboard de LinkedIn - Egresados EPIS UPT
+
+[![Ver en Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/groups/me/reports/1b10890b-62a7-4863-b733-bc3c34796258?ctid=b6b466ee-468d-4011-b9fc-fbdcf82ac90a&pbi_source=linkShare&bookmarkGuid=584ef72c-89d8-49be-86d4-c0489198b8f7)
+
