@@ -49,13 +49,13 @@ Nota: Solo si se sobrepasa el limite gratuito, de acuerdo a los recursos que se 
 
 | Código     | Nombre del Documento                                                | Tipo         | Enlace |
 |------------|---------------------------------------------------------------------|--------------|--------|
-| FD01       | Informe de Factibilidad                                             | PDF / DOCX   | [Ver PDF]("./FD01-EPIS-Informe de Factibilidad.pdf") / [Ver DOCX](./FD01-EPIS-Informe de Factibilidad.docx) |
-| FD02       | Informe de Visión                                                   | PDF / DOCX   | [Ver PDF](./FD02-EPIS-Informe Vision.pdf) / [Ver DOCX](./FD02-EPIS-Informe Vision.docx) |
-| FD03       | Informe de Especificación de Requerimientos                        | PDF / DOCX   | [Ver PDF](./FD03-EPIS-Informe Especificación Requerimientos.pdf) / [Ver DOCX](./FD03-EPIS-Informe Especificación Requerimientos.docx) |
-| FD04       | Informe de Arquitectura de Software                                 | PDF / DOCX   | [Ver PDF](./FD04-EPIS-Informe Arquitectura de Software.pdf) / [Ver DOCX](./FD04-EPIS-Informe Arquitectura de Software.docx) |
-| FD05       | Informe del Proyecto Final                                          | PDF / DOCX   | [Ver PDF](./FD05-EPIS-Informe ProyectoFinal.pdf) / [Ver DOCX](./FD05-EPIS-Informe ProyectoFinal.docx) |
+| FD01       | Informe de Factibilidad                                             | PDF / DOCX   | [Ver PDF]("./FD01-EPIS-Informe%de%Factibilidad.pdf") / [Ver DOCX](./FD01-EPIS-Informe%de%Factibilidad.docx) |
+| FD02       | Informe de Visión                                                   | PDF / DOCX   | [Ver PDF](./FD02-EPIS-Informe%Vision.pdf) / [Ver DOCX](./FD02-EPIS-Informe%Vision.docx) |
+| FD03       | Informe de Especificación de Requerimientos                        | PDF / DOCX   | [Ver PDF](./FD03-EPIS-Informe%Especificación%Requerimientos.pdf) / [Ver DOCX](./FD03-EPIS-Informe%Especificación%Requerimientos.docx) |
+| FD04       | Informe de Arquitectura de Software                                 | PDF / DOCX   | [Ver PDF](./FD04-EPIS-Informe%Arquitectura%de%Software.pdf) / [Ver DOCX](./FD04-EPIS-Informe%Arquitectura%de%Software.docx) |
+| FD05       | Informe del Proyecto Final                                          | PDF / DOCX   | [Ver PDF](./FD05-EPIS-Informe%ProyectoFinal.pdf) / [Ver DOCX](./FD05-EPIS-Informe%ProyectoFinal.docx) |
 | FD06       | Propuesta del Proyecto                                              | PDF / DOCX   | [Ver PDF](./FD06-EPIS-PropuestaProyecto.pdf) / [Ver DOCX](./FD06-EPIS-PropuestaProyecto.docx) |
-| DATOS      | Diccionario de Datos                                                | MD / DOCX    | [Ver MD](./DICCIONARIO DE DATOS.md) / [Ver DOCX](./DICCIONARIO DE DATOS.docx) |
+| DATOS      | Diccionario de Datos                                                | MD / DOCX    | [Ver MD](./DICCIONARIO%DE%DATOS.md) / [Ver DOCX](./DICCIONARIO%DE%DATOS.docx) |
 | PPT        | Presentación del Proyecto                                           | MD           | [Ver](./Presentacion.md) |
 | DASHBOARD  | Dashboard Power BI                                                  | PBIX / Enlace | [Ver PBIX](./Dashboard_V2.pbix) / [Ver en línea](https://app.powerbi.com/links/Cg3PgMePDE?ctid=b6b466ee-468d-4011-b9fc-fbdcf82ac90a&pbi_source=linkShare) |
 | ROADMAP    | Cronograma del Proyecto                                             | PNG          | [Ver](./descarga.png) |
