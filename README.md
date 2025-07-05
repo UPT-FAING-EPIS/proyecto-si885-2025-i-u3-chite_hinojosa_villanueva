@@ -74,3 +74,11 @@ Nota: Solo si se sobrepasa el limite gratuito, de acuerdo a los recursos que se 
 ## RoadMap:
 
 ![Roadmap](./descarga.png)
+
+## 🎥 Video de YouTube del Proyecto
+
+Puedes ver la explicación completa del proyecto en el siguiente video:
+
+[![Ver en YouTube](https://img.youtube.com/vi/jgdnzV4mYxc/0.jpg)](https://www.youtube.com/watch?v=jgdnzV4mYxc)
+
+🔗 [https://www.youtube.com/watch?v=jgdnzV4mYxc](https://www.youtube.com/watch?v=jgdnzV4mYxc)
